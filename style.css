@@ -1,0 +1,77 @@
+*{
+    padding:0;
+    margin:auto;
+}
+
+nav {
+    height: 100px;
+    display: flex;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 6px;
+}
+
+.leftnav {
+    width:33.3%;
+}
+
+.midnav {
+    width:33.3%;
+}
+
+.rightnav {
+    width:33.3%;
+    display: flex;
+}
+
+
+#aboutMe{
+    width: 33.3%;
+    text-align: left;
+}
+
+#projects{
+    width: 33.3%;
+    text-align: center;
+}
+
+#contacts{
+    width: 33.3%;
+    text-align: right;
+}
+
+
+
+.aboutMe-main{
+    height: 1000px;
+    display:flex;
+}
+
+.project-page{
+    background-color: rgb(231, 229, 229);
+    height: 1000px;
+}
+
+#name {
+    width: 50%;
+    text-align: right;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#photo {
+    width: 50%;
+}
